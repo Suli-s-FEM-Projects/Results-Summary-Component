@@ -4,12 +4,6 @@ A responsive and elegant **Results Summary Component** built with **HTML** and *
 
 ---
 
-## 🚀 Live Demo
-
-### 🌐 [**Live Site**](https://results-summary-component-xo1.netlify.app/)
-
----
-
 ## 🖼️ Preview
 
 ### 💻 Desktop Preview  
@@ -41,3 +35,4 @@ A responsive and elegant **Results Summary Component** built with **HTML** and *
 
 Challenge by [**Frontend Mentor**](https://www.frontendmentor.io/).  
 Coded by [**Suli_mAn**](https://github.com/SulimAnxO1).
+
