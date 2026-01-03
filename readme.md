@@ -16,7 +16,6 @@ A responsive and elegant **Results Summary Component** built with **HTML** and *
 
 ## ✨ Features
 
-- 📊 Beautiful results summary card  
 - 🎨 Balanced layout with vibrant colors  
 - 📱 Fully responsive across all devices  
 - 💾 Clean, semantic HTML structure  
@@ -35,4 +34,5 @@ A responsive and elegant **Results Summary Component** built with **HTML** and *
 
 Challenge by [**Frontend Mentor**](https://www.frontendmentor.io/).  
 Coded by [**Suli_mAn**](https://github.com/SulimAnxO1).
+
 
